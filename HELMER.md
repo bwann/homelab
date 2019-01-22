@@ -2,7 +2,8 @@
 
 Assembly of the HELMER cabinet is pretty much like the IKEA instructions say.
 Just skip the parts where it has you assembling the drawers, you won't be
-using them.
+using them.  Fortunately the whole thing just snaps together without any
+tools so you can disassemble parts if it makes working with it easier.
 
 ![HELMER](./img/7271891250_ea68a6c65b_z.jpg)
 
@@ -41,5 +42,10 @@ This has the effect of putting rails vertically spaced every 1.5".
 
 Unfortunately I don't have a photo of what this looks like after it's done.
 
-The top of the cabinet just snaps on, this is important later when you need
-to work on the power supply or your network gear.
+### Tips
+* Assemble the doors, or at least the aluminum trim piece with the hinges
+  first, and screw the hinges to the inside of the cabinet wall while you have
+  it loose and laying flat.  It makes the process easier.
+
+* The top of the cabinet just snaps on and off, this is important later when
+  you need to work on the power supply or your network gear.
