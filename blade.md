@@ -14,10 +14,9 @@ of aluminum to prevent sagging over time due to heat.
 For each motherboard in your cabinet:
 
 * 9.5" x 13.5" x 1/8" (or .100") acrylic sheet
-* #8 x 1/2" machine screws + nuts (motherboard and drives)
-* 9.5" x 1/2" aluminum angle stock
-* #8 x 1/2" machine screws + nuts (reinforcement bar)
-* 5x 1" cable tie mounting pads
+* #8 x 1/2" machine screws + nuts
+* 9.5" x 1/2" aluminum angle stock (reinforcement bar)
+* (5) 1" cable tie mounting pads
 * Momentary rocker switch (power/reset button)
 * Tiny zip ties
 * PicoPSU
@@ -26,11 +25,18 @@ For each motherboard in your cabinet:
 * Short SATA cables
 
 Acyrlic usually comes in sheets of 11" x 14" or larger, so you'll need to
-cut it down. (This is where having access to a laser cutter helps!)
+cut it down.  Aside from building the power wiring harness, cutting/scoring
+all the acyrlic sheets with a knife, then drilling all the holes for hard
+drives is easily the second most time consuming part of this project. 
+
+This is where having access to a laser cutter helps!  If you're not lucky
+enough to have access to one, you can still print out my SVG file as a
+template for drilling the holes.
 
 The HELMER kit contains six sheets of thin sheet metal for the drawers,
-you could cut them down and use them if you wanted to reuse some of the
-material.  I've opted to use the same acrylic sheets for all 10 blades.
+you could cut some them down and use them if you wanted to reuse some of the
+material.  I used at least two of the drawers for holding the power supply
+and switch, so I've opted to use the same acrylic sheets for all 10 blades.
 
 ### Motherboard power
 
@@ -93,9 +99,9 @@ to make a crude standoff. The motherboard goes over the four screws and
 a final nut holds it down.
 
 Likewise for each hard drive I run a machine screw (#8 x 1/2"?) through
-the blade, thread on a couple of nuts, and then run the screw into the
-bottom of the hard drive. I stand the hard drive about a quarter inch off
-the blade so air can circulate around it.
+the underside of the blade, thread on a couple of nuts, and then run the screw
+into the bottom of the hard drive. I stand the hard drive about a quarter inch
+off the blade so air can circulate around it.
 
 For 2.5" drives, I think they need #6 screws.
 

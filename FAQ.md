@@ -38,7 +38,9 @@ I'm hoping by writing docs I can jog my memory and pin down material cost.
 
 I think I estimated around $300 for the HELMER cabinet, all the extra metal,
 acyrlic, switch, router, cabling, screws and hardware.  Then what each
-individual system cost, in terms of motherboard + RAM + drives.
+individual system cost, in terms of motherboard + RAM + drives.  Aside from
+the electronics, I think the several feet of aluminum angle stock was the
+most expensive part.
 
 ### How much power does it draw?
 

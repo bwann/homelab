@@ -29,6 +29,7 @@ See the Files section below or go browse through the `laser/` directory.
 
 ### Table of contents
 * [FAQ](FAQ.md)
+* [HELMER cabinet assembly]
 * [Motherboard blades](blade.md)
 * [Doors](door.md)
 * [Networking](network.md)
