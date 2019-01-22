@@ -20,6 +20,13 @@ A while back in 2012 I did take a HELMER drawer leftover from this project,
 filled it full of 8x Raspberry Pis (1st gen), and created `tinycluster`.
 (https://binaryfury.wann.net/tinycluster/)
 
+### How big is it?
+
+The HELMER cabinet is about 11" wide, 27" tall, and 17" deep.  It fits
+perfectly under an IKEA desk if you have one.  Other than the power and
+Ethernet cables coming out the back, it's pretty self contained and stays
+within this footprint.
+
 ### What did this cost?
 
 I'm not really sure.  I wasn't keeping track of component cost when I

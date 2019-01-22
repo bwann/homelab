@@ -3,7 +3,8 @@
 This is ikeacluster, my take on using an IKEA HELMER filing cabinet and
 turning it into a nearly silent, low power, rig for a home lab.  It supports
 up to 10x mini-ITX motherboards, a mixture of 20x 2.5" or 3.5" hard drives
-and/or SSDs, all running on a single ATX power supply.
+and/or SSDs, all running on a single ATX power supply.  Best of all, it fits
+under a desk!
 
 ![ikeacluster](./img/7862072998_a28363d610_z.jpg)
 
