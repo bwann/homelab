@@ -1,6 +1,19 @@
 # Blade/board thingy
 
+* 9.5" x 13.5" x 1/8" acrylic
+* #8 x 1/2" machine screws + nuts (motherboard and drives)
+* 9.5" x 1/2" aluminum angle stock
+* #8 x 1/4" machine screws + nuts (reinforcement bar)
+* 5x 1" cable tie mounting pads
+* Momentary rocker switch (power/reset button)
+
 Each motherboard blade is a 9.5" x 13.5" sheet of 1/8" thick acrylic.
+This is the maximum dimension I can use in my design to still be able to
+use front and rear doors, and clear the fans on the rear door.
+
+The HELMER kit contains six sheets of thin sheet metal for the drawers,
+you could cut them down and use them if you wanted to reuse some of the
+material.  I've opted to use the same acrylic sheets for all 10 blades.
 
 ![Blade photo](./img/16932150116_451bd0770b_z.jpg)
 
@@ -33,9 +46,11 @@ the blade.
 
 For 2.5" drives, I think they need #6 screws.
 
+![Standoffs](./img/7271914716_f9f48f5739_z.jpg)
+
 The blades can handle either 2x 3.5" hard drives, 2x 2.5" hard drive/SSDs,
 or 3x 2.5" HDD/SSDs. For the three drive configuration, they're in a "V"
 configuration. I figure this is better for heat/airflow and makes it easier
 to get at the nuts underneath the drives.
 
-![Standoffs](./img/7271914716_f9f48f5739_z.jpg)
+![Three drive config](./img/46835037641_474b8214e9_z.jpg)
