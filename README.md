@@ -30,7 +30,7 @@ See the Files section below or go browse through the `laser/` directory.
 * [FAQ](FAQ.md)
 * [Motherboard blades](blade.md)
 * [Doors](door.md)
-* Networking
+* [Networking](network.md)
 * Power distribution
 
 ### Files
