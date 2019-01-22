@@ -1,19 +1,21 @@
 # Power distribution
 
-All of the server blades in ikeacluster are powered by a single 620 W ATX
-power supply.  This provides 12 VDC out to a power distribution block, to
-the PicoPSUs in each individual motherboard.  A "power supply terminator"
-on the ATX PSU keeps it always-on.
+All of the server blades in ikeacluster are powered by a single 620 Watt ATX
+power supply unit (PSU).  This provides 12 VDC out to a power distribution
+block, to the PicoPSUs in each individual motherboard.  A "power supply
+terminator" on the ATX PSU keeps it always-on.
 
 Originally I used 12 VDC power supplies from surplus, but the largest I
 could get my hands on was 192 watt.  Beyond this they just got too expensive,
 so why not just use an ordinary $90 ATX "gamer" PSU?  It provides a lot
 of 12 volt power, is compact, and has a fan.
 
-Original DIN -> power block:
+**Original DIN -> power block:**
+
 ![Old power block](./img/7276512392_697032d148.jpg)
 
-Current ATX PSU in cabinet:
+**Current ATX PSU in cabinet:**
+
 ![ATX PSU](./img/7835726560_eb07f94e19_z.jpg)
 
 Using a modular/semi-modular power supply was important to get rid of
@@ -41,7 +43,7 @@ of this project.  Cutting and drilling all the acrylic sheets is a close
 second.
 
 The entire top drawer slot of the HELMER is occupied by the PSU, terminal
-blocks, the Ethernet switch, and router.  
+blocks, the Ethernet switch, and router.  (See photo above.)
 
 I used one of the sheet metal HELMER drawer assemblies here, leaving off the
 front panel, and trimming back the sides.  The rear panel of the drawer has
@@ -51,7 +53,8 @@ to the panel.
 I used a sheet metal screw to fasten the drawer to the side of the cabinet so
 it can not slide out.
 
-Rear view:
+**Rear view:**
+
 ![Rear of power shelf](./img/7835729104_e788373015_z.jpg)
 
 The fan of the PSU is a nice side effect of drawing air over the switch and
@@ -110,9 +113,11 @@ it's easy to take the top off the cabinet to get to the wiring if needed.
 
 ![Switch shelf](./img/7843050254_1ddc9d31da_z.jpg)
 
-An inverted-"U" piece of drawer sheet metal about 4-5" deep fits over the
-terminal blocks and provides a surface to sit the switch on.  I used long
-lengths of hook and loop strap to hold things down.
+Using the bottom from another HELMER drawer, I cut it down to about 4-5" deep,
+trimmed the sides down to about 1.5", formed it into an inverted-"U", and fit
+it over the front of the other drawer.  This covers the terminal blocks and
+provides a surface to mount the switch on.  I used long lengths of hook and
+loop strap to hold things down.
 
 This is a recent view of the front of the switch shelf, the router is under
 the lid of the cabinet:
