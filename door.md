@@ -47,6 +47,8 @@ hinges along one piece of the aluminum stock roughly 1/4 the way down.  It is
 important that the heads of the screws are flush with the thickness of the
 hinges, otherwise the doors won't shut!
 
+![Mounted door](./img/7271885440_9e065e3854_z.jpg)
+
 For mounting the trim pieces to the expanded metal, I drilled 4-5 holes
 (roughly) evenly spaced across the un-hinged side of the aluminum stock. Then
 used #8-32 x 1/2" machine screws (flat head) through the aluminum, through
