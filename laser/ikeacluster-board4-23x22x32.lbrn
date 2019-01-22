@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightBurnProject AppVersion="0.8.07" MaterialHeight="0">
+    <CutSetting type="Cut">
+        <index Value="1"/>
+        <name Value="C01"/>
+        <minPower Value="0"/>
+        <maxPower Value="20"/>
+        <minPower2 Value="10"/>
+        <maxPower2 Value="20"/>
+        <speed Value="100"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <enableLaser1 Value="1"/>
+        <enableLaser2 Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <enableCutThrough Value="0"/>
+        <priority Value="0"/>
+        <frequency Value="20000"/>
+        <overrideFrequency Value="0"/>
+        <PPI Value="0"/>
+        <enablePPI Value="0"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="1"/>
+        <blowerSpeedOverride Value="0"/>
+        <blowerSpeedPercent Value="100"/>
+        <numPasses Value="1"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <dotMode Value="0"/>
+        <dotTime Value="0"/>
+        <dotSpacing Value="0.1"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="0"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+    </CutSetting>
+    <CutSetting type="Scan">
+        <index Value="3"/>
+        <name Value="Board"/>
+        <minPower Value="20"/>
+        <maxPower Value="20"/>
+        <minPower2 Value="10"/>
+        <maxPower2 Value="20"/>
+        <speed Value="80"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <enableLaser1 Value="1"/>
+        <enableLaser2 Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <enableCutThrough Value="0"/>
+        <priority Value="3"/>
+        <frequency Value="20000"/>
+        <overrideFrequency Value="0"/>
+        <PPI Value="0"/>
+        <enablePPI Value="0"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="1"/>
+        <blowerSpeedOverride Value="0"/>
+        <blowerSpeedPercent Value="100"/>
+        <numPasses Value="1"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <dotMode Value="0"/>
+        <dotTime Value="0"/>
+        <dotSpacing Value="0.1"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="0"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+    </CutSetting>
+    <CutSetting type="Cut">
+        <index Value="5"/>
+        <name Value="C05"/>
+        <minPower Value="85"/>
+        <maxPower Value="85"/>
+        <minPower2 Value="10"/>
+        <maxPower2 Value="20"/>
+        <speed Value="10"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <enableLaser1 Value="1"/>
+        <enableLaser2 Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <enableCutThrough Value="0"/>
+        <priority Value="2"/>
+        <frequency Value="20000"/>
+        <overrideFrequency Value="0"/>
+        <PPI Value="0"/>
+        <enablePPI Value="0"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="1"/>
+        <blowerSpeedOverride Value="0"/>
+        <blowerSpeedPercent Value="100"/>
+        <numPasses Value="1"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <dotMode Value="0"/>
+        <dotTime Value="0"/>
+        <dotSpacing Value="0.1"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="0"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+    </CutSetting>
+    <CutSetting type="Cut">
+        <index Value="6"/>
+        <name Value="C06"/>
+        <minPower Value="0"/>
+        <maxPower Value="20"/>
+        <minPower2 Value="10"/>
+        <maxPower2 Value="20"/>
+        <speed Value="100"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <enableLaser1 Value="1"/>
+        <enableLaser2 Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <enableCutThrough Value="0"/>
+        <priority Value="1"/>
+        <frequency Value="20000"/>
+        <overrideFrequency Value="0"/>
+        <PPI Value="0"/>
+        <enablePPI Value="0"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="1"/>
+        <blowerSpeedOverride Value="0"/>
+        <blowerSpeedPercent Value="100"/>
+        <numPasses Value="1"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <dotMode Value="0"/>
+        <dotTime Value="0"/>
+        <dotSpacing Value="0.1"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="0"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+    </CutSetting>
+    <Shape Type="Rect" CutIndex="5" StartV="0" W="345" H="215" Cr="0">
+        <XForm>0.69942 0 0 -1.59488 120.709 171.671</XForm>
+    </Shape>
+    <Shape Type="Group" CutIndex="0">
+        <XForm>1 0 0 1 0 0</XForm>
+        <Children>
+            <Shape Type="Rect" CutIndex="1" StartV="0" W="97.073715" H="119.09044" Cr="0">
+                <XForm>1.06002 0 0 1.23436 175.295 267.1</XForm>
+            </Shape>
+            <Shape Type="Ellipse" CutIndex="5" StartV="0" Rx="1" Ry="1">
+                <XForm>1.5875 0 0 1.5875 222.315 311.084</XForm>
+            </Shape>
+            <Shape Type="Ellipse" CutIndex="5" StartV="0" Rx="1" Ry="1">
+                <XForm>1.5875 0 0 1.5875 127.065 311.084</XForm>
+            </Shape>
+            <Shape Type="Group" CutIndex="0">
+                <XForm>1 0 0 1 0 -0.0387878</XForm>
+                <Children>
+                    <Shape Type="Ellipse" CutIndex="5" StartV="0" Rx="3" Ry="2">
+                        <XForm>0.529168 0 0 -0.793752 222.25 279.4</XForm>
+                    </Shape>
+                    <Shape Type="Ellipse" CutIndex="5" StartV="0" Rx="3" Ry="2">
+                        <XForm>0.529168 0 0 -0.793752 222.25 234.95</XForm>
+                    </Shape>
+                    <Shape Type="Ellipse" CutIndex="5" StartV="0" Rx="3" Ry="2">
+                        <XForm>0.529167 0 0 -0.793752 127 279.4</XForm>
+                    </Shape>
+                    <Shape Type="Ellipse" CutIndex="5" StartV="0" Rx="3" Ry="2">
+                        <XForm>0.529167 0 0 -0.793752 127 234.95</XForm>
+                    </Shape>
+                </Children>
+            </Shape>
+        </Children>
+    </Shape>
+    <Shape Type="Group" CutIndex="0">
+        <XForm>1 0 0 1 0 0</XForm>
+        <Children>
+            <Shape Type="Ellipse" CutIndex="5" StartV="0" Rx="1" Ry="1">
+                <XForm>1.5875 0 0 1.5875 17.282 311.084</XForm>
+            </Shape>
+            <Shape Type="Group" CutIndex="0">
+                <XForm>1 0 0 1 -109.783 -0.0387878</XForm>
+                <Children>
+                    <Shape Type="Ellipse" CutIndex="5" StartV="0" Rx="3" Ry="2">
+                        <XForm>0.529168 0 0 -0.793752 222.25 279.4</XForm>
+                    </Shape>
+                    <Shape Type="Ellipse" CutIndex="5" StartV="0" Rx="3" Ry="2">
+                        <XForm>0.529168 0 0 -0.793752 222.25 234.95</XForm>
+                    </Shape>
+                    <Shape Type="Ellipse" CutIndex="5" StartV="0" Rx="3" Ry="2">
+                        <XForm>0.529167 0 0 -0.793752 127 279.4</XForm>
+                    </Shape>
+                    <Shape Type="Ellipse" CutIndex="5" StartV="0" Rx="3" Ry="2">
+                        <XForm>0.529167 0 0 -0.793752 127 234.95</XForm>
+                    </Shape>
+                </Children>
+            </Shape>
+            <Shape Type="Ellipse" CutIndex="5" StartV="0" Rx="1" Ry="1">
+                <XForm>1.5875 0 0 1.5875 112.532 311.084</XForm>
+            </Shape>
+            <Shape Type="Rect" CutIndex="1" StartV="0" W="97.073715" H="119.09044" Cr="0">
+                <XForm>1.06002 0 0 1.23436 65.512 267.1</XForm>
+            </Shape>
+        </Children>
+    </Shape>
+    <Shape Type="Group" CutIndex="0">
+        <XForm>1 0 0 1 0 0</XForm>
+        <Children>
+            <Shape Type="Ellipse" CutIndex="5" StartV="0" Rx="3" Ry="2">
+                <XForm>0.529167 0 0 -0.793751 120.65 181.837</XForm>
+            </Shape>
+            <Shape Type="Ellipse" CutIndex="5" StartV="0" Rx="3" Ry="2">
+                <XForm>0.529168 0 0 -0.793752 190.5 181.837</XForm>
+            </Shape>
+            <Shape Type="Ellipse" CutIndex="5" StartV="0" Rx="3" Ry="2">
+                <XForm>0.529166 0 0 -0.79375 50.8 181.837</XForm>
+            </Shape>
+            <Shape Type="Rect" CutIndex="1" StartV="0" W="241" H="21" Cr="0">
+                <XForm>1.00124 0 0 0.907142 120.5 181.202</XForm>
+            </Shape>
+        </Children>
+    </Shape>
+    <Shape Type="Group" CutIndex="0">
+        <XForm>1 0 0 1 0 0</XForm>
+        <Children>
+            <Shape Type="Ellipse" CutIndex="5" StartV="0" Rx="2.5018997" Ry="2.5018997">
+                <XForm>0.63452 0 0 0.634518 200.126 11.5662</XForm>
+            </Shape>
+            <Shape Type="Ellipse" CutIndex="5" StartV="0" Rx="2.5018997" Ry="2.5018997">
+                <XForm>0.63452 0 0 0.634518 200.126 166.506</XForm>
+            </Shape>
+            <Shape Type="Ellipse" CutIndex="5" StartV="0" Rx="2.5018997" Ry="2.5018997">
+                <XForm>0.63452 0 0 0.634518 42.6458 166.506</XForm>
+            </Shape>
+            <Shape Type="Ellipse" CutIndex="5" StartV="0" Rx="2.5018997" Ry="2.5018997">
+                <XForm>0.63452 0 0 0.634518 42.6458 34.4262</XForm>
+            </Shape>
+            <Shape Type="Rect" CutIndex="1" StartV="0" W="215.16339" H="162.12311" Cr="0">
+                <XForm>0.790934 0 0 1.0497 121.398 86.5867</XForm>
+            </Shape>
+        </Children>
+    </Shape>
+    <Shape Type="Path" CutIndex="6" StartV="0">
+        <XForm>1 0 0 1 -100.007 -9.99002</XForm>
+        <V vx="310" vy="210" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="210" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <P T="L" p0="0" p1="1"/>
+        <P T="L" p0="1" p1="2"/>
+        <P T="L" p0="2" p1="3"/>
+        <P T="L" p0="3" p1="4"/>
+    </Shape>
+    <Shape Type="Path" CutIndex="6" StartV="0">
+        <XForm>1 0 0 -1 -100.001 509.987</XForm>
+        <V vx="310" vy="210" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="210" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <P T="L" p0="0" p1="1"/>
+        <P T="L" p0="1" p1="2"/>
+        <P T="L" p0="2" p1="3"/>
+        <P T="L" p0="3" p1="4"/>
+    </Shape>
+    <Shape Type="Path" CutIndex="6" StartV="0">
+        <XForm>-1 0 0 -1 490.012 509.994</XForm>
+        <V vx="310" vy="210" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="210" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <P T="L" p0="0" p1="1"/>
+        <P T="L" p0="1" p1="2"/>
+        <P T="L" p0="2" p1="3"/>
+        <P T="L" p0="3" p1="4"/>
+    </Shape>
+    <Shape Type="Path" CutIndex="6" StartV="0">
+        <XForm>-1 0 0 1 489.973 -9.99002</XForm>
+        <V vx="310" vy="210" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="210" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <P T="L" p0="0" p1="1"/>
+        <P T="L" p0="1" p1="2"/>
+        <P T="L" p0="2" p1="3"/>
+        <P T="L" p0="3" p1="4"/>
+    </Shape>
+    <Shape Type="Ellipse" CutIndex="5" StartV="0" Rx="1" Ry="1">
+        <XForm>1.5875 0 0 1.5875 164.082 214.009</XForm>
+    </Shape>
+    <Shape Type="Ellipse" CutIndex="5" StartV="0" Rx="1" Ry="1">
+        <XForm>1.5875 0 0 1.5875 226.338 214.009</XForm>
+    </Shape>
+    <Shape Type="Ellipse" CutIndex="5" StartV="0" Rx="1" Ry="1">
+        <XForm>1.5875 0 0 1.5875 164.082 290.609</XForm>
+    </Shape>
+    <Shape Type="Ellipse" CutIndex="5" StartV="0" Rx="1" Ry="1">
+        <XForm>1.5875 0 0 1.5875 226.314 290.609</XForm>
+    </Shape>
+    <Shape Type="Path" CutIndex="6" StartV="0">
+        <XForm>1 0 0 1 -249.637 -9.99002</XForm>
+        <V vx="310" vy="210" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="210" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <P T="L" p0="0" p1="1"/>
+        <P T="L" p0="1" p1="2"/>
+        <P T="L" p0="2" p1="3"/>
+        <P T="L" p0="3" p1="4"/>
+    </Shape>
+    <Shape Type="Path" CutIndex="6" StartV="0">
+        <XForm>1 0 0 -1 -249.63 509.987</XForm>
+        <V vx="310" vy="210" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="210" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <P T="L" p0="0" p1="1"/>
+        <P T="L" p0="1" p1="2"/>
+        <P T="L" p0="2" p1="3"/>
+        <P T="L" p0="3" p1="4"/>
+    </Shape>
+    <Shape Type="Path" CutIndex="6" StartV="0">
+        <XForm>-1 0 0 -1 340.383 509.994</XForm>
+        <V vx="310" vy="210" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="210" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <P T="L" p0="0" p1="1"/>
+        <P T="L" p0="1" p1="2"/>
+        <P T="L" p0="2" p1="3"/>
+        <P T="L" p0="3" p1="4"/>
+    </Shape>
+    <Shape Type="Path" CutIndex="6" StartV="0">
+        <XForm>-1 0 0 1 340.343 -9.99002</XForm>
+        <V vx="310" vy="210" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="210" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <P T="L" p0="0" p1="1"/>
+        <P T="L" p0="1" p1="2"/>
+        <P T="L" p0="2" p1="3"/>
+        <P T="L" p0="3" p1="4"/>
+    </Shape>
+    <Shape Type="Ellipse" CutIndex="5" StartV="0" Rx="1" Ry="1">
+        <XForm>1.5875 0 0 1.5875 14.3171 214.009</XForm>
+    </Shape>
+    <Shape Type="Ellipse" CutIndex="5" StartV="0" Rx="1" Ry="1">
+        <XForm>1.5875 0 0 1.5875 76.573 214.009</XForm>
+    </Shape>
+    <Shape Type="Ellipse" CutIndex="5" StartV="0" Rx="1" Ry="1">
+        <XForm>1.5875 0 0 1.5875 76.549 290.609</XForm>
+    </Shape>
+    <Shape Type="Ellipse" CutIndex="5" StartV="0" Rx="1" Ry="1">
+        <XForm>1.5875 0 0 1.5875 14.3171 290.609</XForm>
+    </Shape>
+    <Shape Type="Path" CutIndex="6" StartV="0">
+        <XForm>0.5 0 0 0.5 44.3875 115.971</XForm>
+        <V vx="310" vy="210" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="210" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <P T="L" p0="0" p1="1"/>
+        <P T="L" p0="1" p1="2"/>
+        <P T="L" p0="2" p1="3"/>
+        <P T="L" p0="3" p1="4"/>
+    </Shape>
+    <Shape Type="Path" CutIndex="6" StartV="0">
+        <XForm>0.5 0 0 -0.5 44.3626 425.985</XForm>
+        <V vx="310" vy="210" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="210" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <P T="L" p0="0" p1="1"/>
+        <P T="L" p0="1" p1="2"/>
+        <P T="L" p0="2" p1="3"/>
+        <P T="L" p0="3" p1="4"/>
+    </Shape>
+    <Shape Type="Path" CutIndex="6" StartV="0">
+        <XForm>-0.5 0 0 -0.5 304.365 425.987</XForm>
+        <V vx="310" vy="210" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="210" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <P T="L" p0="0" p1="1"/>
+        <P T="L" p0="1" p1="2"/>
+        <P T="L" p0="2" p1="3"/>
+        <P T="L" p0="3" p1="4"/>
+    </Shape>
+    <Shape Type="Path" CutIndex="6" StartV="0">
+        <XForm>-0.5 0 0 0.5 304.357 115.994</XForm>
+        <V vx="310" vy="210" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="210" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <P T="L" p0="0" p1="1"/>
+        <P T="L" p0="1" p1="2"/>
+        <P T="L" p0="2" p1="3"/>
+        <P T="L" p0="3" p1="4"/>
+    </Shape>
+    <Shape Type="Path" CutIndex="6" StartV="0">
+        <XForm>1 0 0 1 -174.413 25.0889</XForm>
+        <V vx="310" vy="210" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="210" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <P T="L" p0="0" p1="1"/>
+        <P T="L" p0="1" p1="2"/>
+        <P T="L" p0="2" p1="3"/>
+        <P T="L" p0="3" p1="4"/>
+    </Shape>
+    <Shape Type="Path" CutIndex="6" StartV="0">
+        <XForm>1 0 0 -1 -174.407 545.066</XForm>
+        <V vx="310" vy="210" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="210" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <P T="L" p0="0" p1="1"/>
+        <P T="L" p0="1" p1="2"/>
+        <P T="L" p0="2" p1="3"/>
+        <P T="L" p0="3" p1="4"/>
+    </Shape>
+    <Shape Type="Path" CutIndex="6" StartV="0">
+        <XForm>-1 0 0 -1 415.607 545.072</XForm>
+        <V vx="310" vy="210" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="210" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <P T="L" p0="0" p1="1"/>
+        <P T="L" p0="1" p1="2"/>
+        <P T="L" p0="2" p1="3"/>
+        <P T="L" p0="3" p1="4"/>
+    </Shape>
+    <Shape Type="Path" CutIndex="6" StartV="0">
+        <XForm>-1 0 0 1 415.567 25.0889</XForm>
+        <V vx="310" vy="210" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="210" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <P T="L" p0="0" p1="1"/>
+        <P T="L" p0="1" p1="2"/>
+        <P T="L" p0="2" p1="3"/>
+        <P T="L" p0="3" p1="4"/>
+    </Shape>
+    <Shape Type="Ellipse" CutIndex="5" StartV="0" Rx="1" Ry="1">
+        <XForm>1.5875 0 0 1.5875 151.88 249.059</XForm>
+    </Shape>
+    <Shape Type="Ellipse" CutIndex="5" StartV="0" Rx="1" Ry="1">
+        <XForm>1.5875 0 0 1.5875 89.624 249.059</XForm>
+    </Shape>
+    <Shape Type="Ellipse" CutIndex="5" StartV="0" Rx="1" Ry="1">
+        <XForm>1.5875 0 0 1.5875 89.624 325.659</XForm>
+    </Shape>
+    <Shape Type="Ellipse" CutIndex="5" StartV="0" Rx="1" Ry="1">
+        <XForm>1.5875 0 0 1.5875 151.856 325.659</XForm>
+    </Shape>
+    <Shape Type="Ellipse" CutIndex="5" StartV="0" Rx="1" Ry="1">
+        <XForm>1.5875 0 0 1.5875 205.708 234.989</XForm>
+    </Shape>
+    <Shape Type="Ellipse" CutIndex="5" StartV="0" Rx="1" Ry="1">
+        <XForm>1.5875 0 0 1.5875 143.452 234.989</XForm>
+    </Shape>
+    <Shape Type="Ellipse" CutIndex="5" StartV="0" Rx="1" Ry="1">
+        <XForm>1.5875 0 0 1.5875 143.452 311.589</XForm>
+    </Shape>
+    <Shape Type="Ellipse" CutIndex="5" StartV="0" Rx="1" Ry="1">
+        <XForm>1.5875 0 0 1.5875 205.683 311.589</XForm>
+    </Shape>
+    <Shape Type="Path" CutIndex="6" StartV="0">
+        <XForm>0.5 0 0 0.5 -65.3706 115.95</XForm>
+        <V vx="310" vy="210" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="210" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <P T="L" p0="0" p1="1"/>
+        <P T="L" p0="1" p1="2"/>
+        <P T="L" p0="2" p1="3"/>
+        <P T="L" p0="3" p1="4"/>
+    </Shape>
+    <Shape Type="Path" CutIndex="6" StartV="0">
+        <XForm>0.5 0 0 -0.5 -65.3955 425.964</XForm>
+        <V vx="310" vy="210" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="210" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <P T="L" p0="0" p1="1"/>
+        <P T="L" p0="1" p1="2"/>
+        <P T="L" p0="2" p1="3"/>
+        <P T="L" p0="3" p1="4"/>
+    </Shape>
+    <Shape Type="Path" CutIndex="6" StartV="0">
+        <XForm>-0.5 0 0 -0.5 194.607 425.965</XForm>
+        <V vx="310" vy="210" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="210" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <P T="L" p0="0" p1="1"/>
+        <P T="L" p0="1" p1="2"/>
+        <P T="L" p0="2" p1="3"/>
+        <P T="L" p0="3" p1="4"/>
+    </Shape>
+    <Shape Type="Path" CutIndex="6" StartV="0">
+        <XForm>-0.5 0 0 0.5 194.599 115.972</XForm>
+        <V vx="310" vy="210" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="210" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <V vx="330" vy="230" c0x="1" c0y="0" c1x="1" c1y="0"/>
+        <P T="L" p0="0" p1="1"/>
+        <P T="L" p0="1" p1="2"/>
+        <P T="L" p0="2" p1="3"/>
+        <P T="L" p0="3" p1="4"/>
+    </Shape>
+    <Shape Type="Ellipse" CutIndex="5" StartV="0" Rx="1" Ry="1">
+        <XForm>1.5875 0 0 1.5875 33.669 234.989</XForm>
+    </Shape>
+    <Shape Type="Ellipse" CutIndex="5" StartV="0" Rx="1" Ry="1">
+        <XForm>1.5875 0 0 1.5875 95.925 234.989</XForm>
+    </Shape>
+    <Shape Type="Ellipse" CutIndex="5" StartV="0" Rx="1" Ry="1">
+        <XForm>1.5875 0 0 1.5875 33.669 311.589</XForm>
+    </Shape>
+    <Shape Type="Ellipse" CutIndex="5" StartV="0" Rx="1" Ry="1">
+        <XForm>1.5875 0 0 1.5875 95.9 311.589</XForm>
+    </Shape>
+    <Shape Type="Text" CutIndex="3" Font="Andale Mono,100,-1,5,50,0,0,0,0,0" Str="ikeacluster by bwann" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1">
+        <XForm>-4.37114e-8 -1 1 -4.37114e-8 233.224 81.9684</XForm>
+    </Shape>
+    <Shape Type="Text" CutIndex="3" Font="Andale Mono,100,-1,5,50,0,0,0,0,0" Str="rev. 1/2019" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1">
+        <XForm>-4.37114e-8 -1 1 -4.37114e-8 233.224 142.928</XForm>
+    </Shape>
+    <Notes ShowOnLoad="0" Notes=""/>
+</LightBurnProject>
