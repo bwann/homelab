@@ -18,7 +18,7 @@ front and back doors.
 * #8 nuts
 * #6 x 1/2" sheet metal screws, flat head
 * (2) HELMER drawer handles
-* (4) 140mm case fans, 2000-3000 RPM, 3-pin
+* (3) 140mm case fans, 2000-3000 RPM, 3-pin
 * (2) Molex to 3-pin splitters
 
 ### Door assembly
@@ -85,7 +85,7 @@ latch over the bottom part of the HELMER handle.
 
 ### Rear door fans
 
-On the back door of the cabinet, I mounted four (4) 140mm fans to draw air
+On the back door of the cabinet, I mounted three (3) 140mm fans to draw air
 through the cabinet and exhaust out the back.
 
 ![Fans](./img/7835731512_4390cccfdd_z.jpg)
