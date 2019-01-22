@@ -33,6 +33,8 @@ in 12x24" sections which helped a little with this.
 ![Door fit](./img/7271892720_81d7d13ee5_z.jpg)
 
 Cut this down to 9.5" x 24" so it fits inside the open face of the cabinet.
+It needs to fit loosely at this point to allow for the thickness of the trim
+and hinges.
 
 Beware the new expanded metal may not be square, you may need to trim the edge
 to square it up.  I used sheet metal shears to trim the excess.
@@ -53,12 +55,19 @@ For mounting the trim pieces to the expanded metal, I drilled 4-5 holes
 (roughly) evenly spaced across the un-hinged side of the aluminum stock. Then
 used #8-32 x 1/2" machine screws (flat head) through the aluminum, through
 an open mesh part of the sheet metal, with a washer and nut holding it
-together.  Do this on both left and right sides.
+together. **Finger tight for now!**  Do this on both left and right sides.
+
+![Hinge detail](./img/45922363735_952ec97b4b.jpg)
 
 Once the door is assembled, use #6 metal screws to attach the door to the
 inside edge of the HELMER cabinet.  Again, make sure the sheet metal screws
 you use are flush with the thickness of the hinge, else the door won't shut
 properly.
+
+Test that your door swings freely in and out of the cabinet, flush with the
+front when closed. You can use this opportunity to make sure everything is
+square and looks good before you tighten the trim to the expanded metal for
+good.
 
 ![Handle and latch](./img/39871153283_3c80b30c7f.jpg)
 
@@ -67,13 +76,14 @@ drawer handles as a handle to the door.
 
 As a finishing touch, I added a simple latch to help keep the door shut.
 This is very handy when you have cables inside that try to push it open!
+Do this for both front and back doors.
 
 This is a piece of 1/2" aluminum angle stock about 1.5" long.  On one end it
 has a sheet metal screw through a hole that's just a bit larger than the screw
 so it pivots freely. The other end has a slight notch cut in it so it will
 latch over the bottom part of the HELMER handle.
 
-### Fans
+### Rear door fans
 
 On the back door of the cabinet, I mounted four (4) 140mm fans to draw air
 through the cabinet and exhaust out the back.
@@ -91,3 +101,10 @@ may be okay.
 For fan power, I used a molex connector off the main PSU, to a couple of
 3-pin splitters, then down to the four fans.  There's no speed control here,
 they run full speed all the time while the cabinet is powered up.
+
+### Rear door cable access
+
+Also in the back door the cabinet, I cut about a 2x2" notch in the top center
+of the expanded metal.  This is where the power cables for the PSU, switch,
+router, and Ethernet cables come out of the cabinet, while allowing the door
+to latch shut.
