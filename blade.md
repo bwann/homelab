@@ -45,11 +45,11 @@ from 90 watt to 150 watt.
 Depending on the hard drives you use, you could use the Molex connector on
 one drive, SATA power on another, or use a "Y" splitter for 1-3 SATA drives.
 
-Usually the PicoPSU comes with a 3.5" barrel connector.  Because I dabble
-in amateur radio, I standardized a long time ago on the Anderson Powerpole
-for all of my 12 volt connectors.  Here I chop off the barrel connector
-and solder on Powerpole ends.  Use a couple of inches of 1/4" wire loom to
-help keep the power pigtail neat.
+Usually the PicoPSU comes with a 3.5mm barrel connector for power input.
+Because I dabble in amateur radio, I standardized a long time ago on the
+Anderson Powerpole for all of my 12 volt connectors.  Here I chop off the
+barrel connector and solder on Powerpole ends.  Use a couple of inches of
+1/4" wire loom to help keep the power pigtail neat.
 
 After the motherboard is mounted, I'll connect the PicoPSU, then ziptie
 all the loose wires to the blade so they won't snag on anything.
@@ -77,7 +77,7 @@ of cables to the drives.
 On the left side of the blade I use three 1" cable tie mounting pads to keep
 the power wiring in place and zip-tie the Powerpole connector to the edge of the
 blade for easy access. This is very handy as it makes the connector easier
-to connect/disconnect and keeps the wire under control.
+to connect/disconnect and keeps excess wire under control.
 
 ![Power mount](./img/16770408458_1bd685fcd3_z.jpg)
 
@@ -95,7 +95,7 @@ a final nut holds it down.
 Likewise for each hard drive I run a machine screw (#8 x 1/2"?) through
 the blade, thread on a couple of nuts, and then run the screw into the
 bottom of the hard drive. I stand the hard drive about a quarter inch off
-the blade.
+the blade so air can circulate around it.
 
 For 2.5" drives, I think they need #6 screws.
 

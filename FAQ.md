@@ -65,3 +65,6 @@ fits with room for the drives.  There's an assortment, altho usually almost
 all are embedded Intel Atom motherboards, either older D2500s or a couple of
 newer Avoton D2550s from Supermicro. There's a couple of old Pentium E6500s
 in there too that I bought from surplus.
+
+Some motherboards have built-in 12 VDC inputs which could save using a PicoPSU.
+I considered them, but then I wouldn't be able to power dual hard drives.
