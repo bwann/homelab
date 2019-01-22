@@ -6,7 +6,7 @@ up to 10x mini-ITX motherboards, a mixture of 20x 2.5" or 3.5" hard drives
 and/or SSDs, all running on a single ATX power supply.  Best of all, it fits
 under a desk!
 
-![HELMER](./img/7271891250_ea68a6c65b_z.jpg) ![ikeacluster](./img/7862072998_a28363d610_z.jpg)
+![HELMER](./img/7271891250_ea68a6c65b_n.jpg) ![ikeacluster](./img/7862072998_a28363d610_z.jpg)
 
 I first built this in 2012 and various bits have changed and expanded over
 time, nevertheless it's been running nonstop 24/7 for over six years now!
