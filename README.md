@@ -6,7 +6,7 @@ up to 10x mini-ITX motherboards, a mixture of 20x 2.5" or 3.5" hard drives
 and/or SSDs, all running on a single ATX power supply.  Best of all, it fits
 under a desk!
 
-![ikeacluster](./img/7862072998_a28363d610_z.jpg)
+![HELMER](./img/7271891250_ea68a6c65b_z.jpg) ![ikeacluster](./img/7862072998_a28363d610_z.jpg)
 
 I first built this in 2012 and various bits have changed and expanded over
 time, nevertheless it's been running nonstop 24/7 for over six years now!
@@ -29,7 +29,7 @@ See the Files section below or go browse through the `laser/` directory.
 
 ### Table of contents
 * [FAQ](FAQ.md)
-* [HELMER cabinet assembly]
+* [HELMER cabinet assembly](HELMER.md)
 * [Motherboard blades](blade.md)
 * [Doors](door.md)
 * [Networking](network.md)
@@ -43,3 +43,4 @@ See the Files section below or go browse through the `laser/` directory.
 * [flickr - Initial and ongoing build photos](https://www.flickr.com/photos/binaryfury/albums/72157629900950858)
 * [flickr - PSU, distribution, and fan upgrade](https://www.flickr.com/photos/binaryfury/albums/72157631186725716)
 * [Blog build commentary](https://binaryfury.wann.net/ikeacluster/)
+* [My website!](https://binaryfury.wann.net/)

@@ -25,7 +25,7 @@ excess cabling that I just didn't have room for.
 * Antec 620 W ATX power supply unit
 * ATX power supply terminator (e.g. https://www.frys.com/product/6489932)
 * (2) HELMER drawers
-* (2) 8-position barrier terminal blocks
+* (2) 8-position barrier terminal blocks (10-pos if you can get it)
 * (4) #8 1" machine screws + nuts (for terminal blocks)
 * (2) Barrier terminal block covers (or make your own from acrylic)
 * (40) 22-18 AWG insulated ring terminals
@@ -45,10 +45,9 @@ second.
 The entire top drawer slot of the HELMER is occupied by the PSU, terminal
 blocks, the Ethernet switch, and router.  (See photo above.)
 
-I used one of the sheet metal HELMER drawer assemblies here, leaving off the
-front panel, and trimming back the sides.  The rear panel of the drawer has
-a cutout for the power supply and notches for thumbscrews holding the PSU
-to the panel.
+I used one of the HELMER drawer assemblies here, leaving off the front panel,
+and trimming back the sides.  The rear panel of the drawer has a cutout for
+the power supply and notches for thumbscrews holding the PSU to the panel.
 
 I used a sheet metal screw to fasten the drawer to the side of the cabinet so
 it can not slide out.
@@ -87,9 +86,13 @@ the terminal blocks to the individual server blades:
 From the terminal block to the PicoPSUs on individual blades is a length of
 red+black 18 gauge wire.  The wires will vary in length for each blade, e.g.
 the wires for the top blade will be about 1' long, wires for the bottom
-blade will be about 2.5' long.  One end has a pair of ring terminals, the other
+blade will be about 3' long.  One end has a pair of ring terminals, the other
 end is a pair of red+black Powerpole connectors.  Use 1/4" wire loom along the
 entire length to keep it neat.
+
+Because I only had 8-position terminal blocks this meant that only 4 blades
+could nominally be attached to each, so I had to double up a couple of
+positions to run power for all 10 blades.
 
 You might as well assemble all 10 cables now even if you don't use them all,
 because it'll be easier to run now than later.
@@ -108,12 +111,13 @@ In the front half of the HELMER drawer used to hold the power supply, I use
 the space above the terminal blocks for the switch(es) and router.
 
 This makes things dense in the front, and if you're stacking switches or a
-router, it makes the ports inaccessible from the front door.  Fortunately,
-it's easy to take the top off the cabinet to get to the wiring if needed.
+router, it makes the ports from the upper device inaccessible from the front.
+Fortunately, it's easy to take the top off the cabinet to get to the wiring
+if needed.
 
 ![Switch shelf](./img/7843050254_1ddc9d31da_z.jpg)
 
-Using the bottom from another HELMER drawer, I cut it down to about 4-5" deep,
+Using the bottom from a second HELMER drawer, I cut it down to about 4-5" deep,
 trimmed the sides down to about 1.5", formed it into an inverted-"U", and fit
 it over the front of the other drawer.  This covers the terminal blocks and
 provides a surface to mount the switch on.  I used long lengths of hook and
