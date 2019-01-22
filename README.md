@@ -32,7 +32,7 @@ See the Files section below or go browse through the `laser/` directory.
 * [Motherboard blades](blade.md)
 * [Doors](door.md)
 * [Networking](network.md)
-* Power distribution
+* [Power distribution](power.md)
 
 ### Files
 * [Board - 2x 3.5" / 3x 2.5" drives (SVG)](laser/ikeacluster-board4-23x22x32.svg)

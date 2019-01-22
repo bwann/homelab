@@ -75,8 +75,9 @@ mount the upright side against the motherboard so it doesn't get in the way
 of cables to the drives.
 
 On the left side of the blade I use three 1" cable tie mounting pads to keep
-the power wiring in place and fix the Powerpole connector to the edge of the
-blade for easy access.
+the power wiring in place and zip-tie the Powerpole connector to the edge of the
+blade for easy access. This is very handy as it makes the connector easier
+to connect/disconnect and keeps the wire under control.
 
 ![Power mount](./img/16770408458_1bd685fcd3_z.jpg)
 

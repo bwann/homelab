@@ -1,6 +1,6 @@
 # FAQ
 
-### Why? Why not a bunch of Raspberry Pis? Why not just use virtual machines (VMs?)
+### Why? Why not a bunch of Raspberry Pis? Why not just use virtual machines (VMs)?
 
 Mainly I felt like building something one day.  I live in a tiny apartment,
 I have no room for a rack of servers nor the associated noise.  And I had a
@@ -20,6 +20,9 @@ A while back in 2012 I did take a HELMER drawer leftover from this project,
 filled it full of 8x Raspberry Pis (1st gen), and created `tinycluster`.
 (https://binaryfury.wann.net/tinycluster/)
 
+Plus the form factor of the HELMER makes it fun to come up with ideas to fit
+things into a compact space.
+
 ### How big is it?
 
 The HELMER cabinet is about 11" wide, 27" tall, and 17" deep.  It fits
@@ -29,7 +32,7 @@ within this footprint.
 
 ### What did this cost?
 
-I'm not really sure.  I wasn't keeping track of component cost when I
+I'm not really sure.  I wasn't keeping track of components and hardware when I
 originally built it, and I've replaced and expanded things over the years.
 I'm hoping by writing docs I can jog my memory and pin down material cost.
 
@@ -43,6 +46,9 @@ Last time I checked when it had 9 motherboards was around 260-280 watts
 continuously.  It varies based upon how many hard drives vs SSDs are installed,
 and types of motherboards.  In summer it can heat up the room so sometimes
 I'll turn off blades I'm not actively using.
+
+An individual Avoton C2558 blade + SSD draws about 12.5 watts, and an older
+Atom 2550 + 3.5" HDD + 2.5" SSD draws about 28 watts.
 
 ### How quiet is it?
 
