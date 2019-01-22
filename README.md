@@ -17,7 +17,7 @@ tedious and time consuming to do a neat job.
 See the Files section below or go browse through the `laser/` directory.
 
 ### Table of contents
-* [Blades](blades.md)
+* [Blades](blade.md)
 * Doors
 * Power distribution
 
@@ -26,5 +26,5 @@ See the Files section below or go browse through the `laser/` directory.
 * [Board - 2x 3.5" / 3x 2.5" drives (Lightburn)](laser/ikeacluster-board4-23x22x32.lbrn)
 
 ### Links
-* (flickr - Initial and ongoing build photos)[https://www.flickr.com/photos/binaryfury/albums/72157629900950858]
-* (flickr - PSU, distribution, and fan upgrade)[https://www.flickr.com/photos/binaryfury/albums/72157631186725716]
+* [flickr - Initial and ongoing build photos](https://www.flickr.com/photos/binaryfury/albums/72157629900950858)
+* [flickr - PSU, distribution, and fan upgrade](https://www.flickr.com/photos/binaryfury/albums/72157631186725716)
