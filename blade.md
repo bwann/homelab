@@ -31,7 +31,8 @@ drives is easily the second most time consuming part of this project.
 
 This is where having access to a laser cutter helps!  If you're not lucky
 enough to have access to one, you can still print out my SVG file as a
-template for drilling the holes.
+template for drilling the holes.  In the `laser/` directory I have a file
+you can load into Lightburn to laser cut the bldes.
 
 The HELMER kit contains six sheets of thin sheet metal for the drawers,
 you could cut some them down and use them if you wanted to reuse some of the
