@@ -1,11 +1,22 @@
 # Motherboard blade/board thingy
 
+Each motherboard in the cabinet mounts to a 9.5" x 13.5" sheet of 1/8" thick
+acrylic.
+
+![Empty blade](./img/46110688054_95b6b92837_z.jpg)
+
+This is the maximum dimension I can use in my design to still be able to
+use front and rear doors, and clear the fans on the rear door.  I use a strip
+of aluminum to prevent sagging over time due to heat.
+
 ### Materials
+
+For each motherboard in your cabinet:
 
 * 9.5" x 13.5" x 1/8" (or .100") acrylic sheet
 * #8 x 1/2" machine screws + nuts (motherboard and drives)
 * 9.5" x 1/2" aluminum angle stock
-* #8 x 1/4" machine screws + nuts (reinforcement bar)
+* #8 x 1/2" machine screws + nuts (reinforcement bar)
 * 5x 1" cable tie mounting pads
 * Momentary rocker switch (power/reset button)
 * Tiny zip ties
@@ -14,9 +25,8 @@
 * SATA power splitter, 2/3-way (optional)
 * Short SATA cables
 
-Each motherboard blade is a 9.5" x 13.5" sheet of 1/8" thick acrylic.
-This is the maximum dimension I can use in my design to still be able to
-use front and rear doors, and clear the fans on the rear door.
+Acyrlic usually comes in sheets of 11" x 14" or larger, so you'll need to
+cut it down. (This is where having access to a laser cutter helps!)
 
 The HELMER kit contains six sheets of thin sheet metal for the drawers,
 you could cut them down and use them if you wanted to reuse some of the
