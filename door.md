@@ -18,6 +18,8 @@ front and back doors.
 * #8 nuts
 * #6 x 1/2" sheet metal screws, flat head
 * (2) HELMER drawer handles
+* (4) 140mm case fans, 2000-3000 RPM, 3-pin
+* (2) Molex to 3-pin splitters
 
 ### Door assembly
 
@@ -68,3 +70,22 @@ This is a piece of 1/2" aluminum angle stock about 1.5" long.  On one end it
 has a sheet metal screw through a hole that's just a bit larger than the screw
 so it pivots freely. The other end has a slight notch cut in it so it will
 latch over the bottom part of the HELMER handle.
+
+### Fans
+
+On the back door of the cabinet, I mounted four (4) 140mm fans to draw air
+through the cabinet and exhaust out the back.
+
+![Fans](./img/7835731512_4390cccfdd_z.jpg)
+
+These are just ziptied roughly evenly along the back door, low enough from
+the top so it doesn't get in the way of where the main power supply is.
+
+Originally I used 1000 RPM fans because I was sensitive to fan noise, but
+once the cabinet is stuck under a desk it's really not as noticable. I later
+swapped these out for 2000 RPM (that's all Fry's had), and I think 3000 RPM
+may be okay.
+
+For fan power, I used a molex connector off the main PSU, to a couple of
+3-pin splitters, then down to the four fans.  There's no speed control here,
+they run full speed all the time while the cabinet is powered up.
