@@ -37,10 +37,18 @@ originally built it, and I've replaced and expanded things over the years.
 I'm hoping by writing docs I can jog my memory and pin down material cost.
 
 I think I estimated around $300 for the HELMER cabinet, all the extra metal,
-acyrlic, switch, router, cabling, screws and hardware.  Then what each
-individual system cost, in terms of motherboard + RAM + drives.  Aside from
-the electronics, I think the several feet of aluminum angle stock was the
-most expensive part.
+acyrlic, cabling, screws, hardware, and including the 16-port switch and
+router.  Then whatever the individual system cost, in terms of motherboard +
+RAM + drives.
+
+Aside from the electronics, I think the several feet of aluminum angle stock
+was the most expensive part.
+
+### How long did it take to build?
+
+I did the entire initial cabinet modification and a couple of working blades
+in a Sunday afternoon + evening.  The power wiring is what takes the longest
+time, but you only have to do it once.
 
 ### How much power does it draw?
 
