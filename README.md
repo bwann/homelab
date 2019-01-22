@@ -18,7 +18,7 @@ See the Files section below or go browse through the `laser/` directory.
 
 ### Table of contents
 * [Blades](blade.md)
-* Doors
+* [Doors](door.md)
 * Power distribution
 
 ### Files
