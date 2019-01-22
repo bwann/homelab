@@ -7,8 +7,17 @@ and/or SSDs, all running on a single ATX power supply.
 
 ![ikeacluster](./img/7862072998_a28363d610_z.jpg)
 
+I first built this in 2012 and various bits have changed and expanded over
+time, nevertheless it's been running nonstop 24/7 for over six years now!
+
 Over time I hope to put together a bill of materials and halfway decent
-construction doc so people can build their own if they want.
+construction doc here so people can build their own if they want.  I'm not
+sure why I published this on Github instead of my own website, I guess to
+be trendy.
+
+There's room for quite a bit of improvisation and loose workmanship in
+building this. Even if I built another one, it probably wouldn't be exactly
+like this one.
 
 In the meantime I've got my hands on a laser cutter and designed a file for
 the acrylic "boards" or "blades" that each motherboard and hard drive(s) mount
@@ -16,9 +25,12 @@ to.  They can absolutely be cut and drilled by hand but I found the work
 tedious and time consuming to do a neat job.
 See the Files section below or go browse through the `laser/` directory.
 
+
 ### Table of contents
-* [Blades](blade.md)
+* [FAQ](FAQ.md)
+* [Motherboard blades](blade.md)
 * [Doors](door.md)
+* Networking
 * Power distribution
 
 ### Files
@@ -28,3 +40,4 @@ See the Files section below or go browse through the `laser/` directory.
 ### Links
 * [flickr - Initial and ongoing build photos](https://www.flickr.com/photos/binaryfury/albums/72157629900950858)
 * [flickr - PSU, distribution, and fan upgrade](https://www.flickr.com/photos/binaryfury/albums/72157631186725716)
+* [Blog build commentary](https://binaryfury.wann.net/ikeacluster/)
