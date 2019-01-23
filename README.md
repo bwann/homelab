@@ -18,7 +18,8 @@ be trendy.
 
 There's room for quite a bit of improvisation and loose workmanship in
 building this. Even if I built another one, it probably wouldn't be exactly
-like this one.
+like this one.  Over on the flickrs I have a bunch of photos as this was
+being built and some of the design iterations I went through.
 
 **Lasers!**
 Cutting and drilling the acrylic "blades" for motherboards+drives is a time
@@ -44,3 +45,8 @@ See the Files section below or go browse through the `laser/` directory.
 * [flickr - PSU, distribution, and fan upgrade](https://www.flickr.com/photos/binaryfury/albums/72157631186725716)
 * [Blog build commentary](https://binaryfury.wann.net/ikeacluster/)
 * [My website!](https://binaryfury.wann.net/)
+
+### Fully populated and running
+![](./img/24378251929_89eb8c93ee_z.jpg)
+
+![](./img/46784165712_11b6b6ab40_z.jpg)
