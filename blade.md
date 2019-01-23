@@ -15,11 +15,12 @@ For each motherboard in your cabinet:
 
 * 9.5" x 13.5" x 1/8" (or .100") acrylic sheet
 * #8 x 1/2" machine screws + nuts
+* #6 x 1/2" machine screws + nuts (optional, for 2.5" drives)
 * 9.5" x 1/2" aluminum angle stock (reinforcement bar)
 * (5) 1" cable tie mounting pads
 * Momentary rocker switch (power/reset button)
 * Tiny zip ties
-* PicoPSU
+* PicoPSU (http://www.mini-box.com/DC-DC)
 * Powerpole connectors
 * SATA power splitter, 2/3-way (optional)
 * Short SATA cables
@@ -38,6 +39,14 @@ The HELMER kit contains six sheets of thin sheet metal for the drawers,
 you could cut some them down and use them if you wanted to reuse some of the
 material.  I used at least two of the drawers for holding the power supply
 and switch, so I've opted to use the same acrylic sheets for all 10 blades.
+
+### CPU fan warning
+
+Since the height of a blade is limited to about 1.5", there's not a lot of
+room for big CPU fans here.  On almost all of my blades I am using Intel
+Atom processors which have a low TDP and use a passive heatsink with no fan.
+The two older Pentium boards I have do have low-profile Dynatron 
+fans+heatsinks on the CPUs.
 
 ### Motherboard power
 
@@ -61,6 +70,10 @@ barrel connector and solder on Powerpole ends.  Use a couple of inches of
 After the motherboard is mounted, I'll connect the PicoPSU, then ziptie
 all the loose wires to the blade so they won't snag on anything.
 
+(I've seen some motherboards with built-in 12 VDC connectors which could
+eliminate a PicoPSU, but you're left with no way to power hard drives.)
+
+
 ### SATA connections
 
 I use a couple of 6" SATA cables, preferably with a 90-degree L-ends (but
@@ -68,6 +81,12 @@ not required), between the motherboard and drive(s).  Longer is fine, it's
 just more to keep tied up to stay neat.
 
 ### Mounting to the blade
+
+For mounting the motherboard to the blade, I run machine screws (size #8)
+up through the bottom of the blade for each corner of the motherboard, and
+thread on a couple of nuts all the way down on each to make a crude standoff.
+The motherboard holes fit over the four screws, rests on the nuts, keeping it
+off the blade.  A final nut on each screw holds it down.
 
 ![Blade photo](./img/16932150116_451bd0770b_z.jpg)
 
@@ -94,23 +113,22 @@ another helps hold the wire in place.
 
 ![Reset switch mount](./img/16932150146_86a586bd91_z.jpg)
 
-For mounting the motherboard to the blade, I run machine screws (size #8
-I think?) through the bottom of the blade, and thread on a couple of nuts
-to make a crude standoff. The motherboard goes over the four screws and
-a final nut holds it down.
+For each hard drive I run four machine screw (#8 x 1/2") up through the
+underside of the blade, like for the motherboard.  Here I thread on a single
+nut, then run the screw up into the bottom of the hard drive a few turns.  The
+nut is then tightened down against the blade surface so it holds the hard
+drive about a quarter inch off the blade so air can circulate around it.
 
-Likewise for each hard drive I run a machine screw (#8 x 1/2"?) through
-the underside of the blade, thread on a couple of nuts, and then run the screw
-into the bottom of the hard drive. I stand the hard drive about a quarter inch
-off the blade so air can circulate around it.
-
-For 2.5" drives, I think they need #6 screws.
+For 2.5" drives, I think they need #6 1/2" screws.
 
 ![Standoffs](./img/7271914716_f9f48f5739_z.jpg)
 
 The blades can handle either 2x 3.5" hard drives, 2x 2.5" hard drive/SSDs,
-or 3x 2.5" HDD/SSDs. For the three drive configuration, they're in a "V"
-configuration. I figure this is better for heat/airflow and makes it easier
-to get at the nuts underneath the drives.
+or 3x 2.5" HDD/SSDs.
+
+The 3x 2.5" HDD/SSD configuration is a new design, I realized I had space on
+the board to fit an extra drive so provide it as an option.  In the laser
+cutter patterns they're in a "V" layout.  I figure this is better for
+heat/airflow and makes it easier to get at the nuts underneath the drives.
 
 ![Three drive config](./img/46835037641_474b8214e9_z.jpg)

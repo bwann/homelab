@@ -56,8 +56,8 @@ it can not slide out.
 
 ![Rear of power shelf](./img/7835729104_e788373015_z.jpg)
 
-The fan of the PSU is a nice side effect of drawing air over the switch and
-router, and any residual heat out of the top of the cabinet.
+The fan in the top of the PSU has a nice side effect of drawing air over the
+switch and router, and any residual heat out of the top of the cabinet.
 
 In the front of the drawer, two 8-position terminal blocks are bolted down
 side by side. One side of each terminal block has daisy chained jumpers for
@@ -101,7 +101,7 @@ All 10 cable pairs can be ran down the left side of the cabinet, between the
 cabinet side and the drawer guides. This keeps them out of the way of sliding
 out individual blades.
 
-Another old photo, but shows how the cabling is ran down the inside of the
+Another old photo, but shows how the cabling is dropped down the inside of the
 cabinet from a terminal block:
 ![Power runs](./img/7276522710_9f794c3c08_z.jpg)
 
@@ -115,13 +115,19 @@ router, it makes the ports from the upper device inaccessible from the front.
 Fortunately, it's easy to take the top off the cabinet to get to the wiring
 if needed.
 
+Power for the switch(es) and/or router are fed out of the back of the cabinet
+where they plug into outlet power independently.
+
 ![Switch shelf](./img/7843050254_1ddc9d31da_z.jpg)
 
 Using the bottom from a second HELMER drawer, I cut it down to about 4-5" deep,
 trimmed the sides down to about 1.5", formed it into an inverted-"U", and fit
 it over the front of the other drawer.  This covers the terminal blocks and
-provides a surface to mount the switch on.  I used long lengths of hook and
-loop strap to hold things down.
+provides a surface to mount the switch on.  Put a big notch on the left side
+so the power cabling can feed into the side of the cabinet.
+
+It's rough and kind of hacky, but I didn't have a better idea.  I used long
+lengths of hook and loop strap to hold things down.
 
 This is a recent view of the front of the switch shelf, the router is under
 the lid of the cabinet:
@@ -129,3 +135,6 @@ the lid of the cabinet:
 
 View of the top of the cabinet before putting the lid on:
 ![Top view](./img/24118898823_527075567d_z.jpg)
+
+The top of the cabinet will cover all this stuff up, yet still provide
+access to the front of the switch.

@@ -20,6 +20,7 @@ front and back doors.
 * (2) HELMER drawer handles
 * (3) 140mm case fans, 2000-3000 RPM, 3-pin
 * (2) Molex to 3-pin splitters
+* (1) 3-pin fan extension cable, about 1'
 
 ### Door assembly
 
@@ -93,13 +94,14 @@ through the cabinet and exhaust out the back.
 These are just ziptied roughly evenly along the back door, low enough from
 the top so it doesn't get in the way of where the main power supply is.
 
-Originally I used 1000 RPM fans because I was sensitive to fan noise, but
+Originally I used 1,000 RPM fans because I was sensitive to fan noise, but
 once the cabinet is stuck under a desk it's really not as noticable. I later
-swapped these out for 2000 RPM (that's all Fry's had), and I think 3000 RPM
-may be okay.
+swapped these out for 2,000 RPM (that's all Fry's had).  3,000 RPM is probably
+overkill for noise unless you're running really hot systems and need it.
 
-For fan power, I used a molex connector off the main PSU, to a couple of
-3-pin splitters, then down to the four fans.  There's no speed control here,
+For fan power, I used two Molex connectors off the main PSU, to a couple of
+3-pin splitters, then down to the four fans.  You may need a short 3-pin
+extension cable to reach from top to bottom.  There's no speed control here,
 they run full speed all the time while the cabinet is powered up.
 
 ### Rear door cable access
