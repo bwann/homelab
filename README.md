@@ -6,6 +6,9 @@ up to 10x mini-ITX motherboards, a mixture of 20x 2.5" or 3.5" hard drives
 and/or SSDs, all running off a large ATX power supply.  Best of all, it has 
 wheels and fits under a desk!
 
+The HELMER form factor is sorely unappreciated for stacking up systems so I've posted my photos
+and designs to hopefully inspire other people.
+
 ![HELMER](./img/7271891250_ea68a6c65b_n.jpg) ![ikeacluster](./img/7862072998_a28363d610_z.jpg)
 
 I first built this in 2012 and various bits have changed and expanded over
