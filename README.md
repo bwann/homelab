@@ -1,5 +1,11 @@
 # homelab
 
+<p align="center">
+  <img src="/img/46784165712_11b6b6ab40_z.jpg">
+  <img src="/img/24378251929_89eb8c93ee_z.jpg">
+
+</p>
+
 This is ikeacluster, my take on using an IKEA HELMER filing cabinet and
 turning it into a nearly silent, low power rig for a home compute lab.  It supports
 up to 10x mini-ITX motherboards, a mixture of 20x 2.5" or 3.5" hard drives
@@ -78,8 +84,3 @@ See the Files section below or go browse through the `laser/` directory.
 * [flickr - PSU, distribution, and fan upgrade](https://www.flickr.com/photos/binaryfury/albums/72157631186725716)
 * [Blog build commentary](https://binaryfury.wann.net/ikeacluster/)
 * [My website!](https://binaryfury.wann.net/)
-
-### Fully populated and running
-![](./img/24378251929_89eb8c93ee_z.jpg)
-
-![](./img/46784165712_11b6b6ab40_z.jpg)
